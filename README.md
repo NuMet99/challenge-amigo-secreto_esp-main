@@ -18,6 +18,7 @@ Proporcionado por Alura LATAM.
 - Sortear amigo, haciendo clic en el botón "Sortear" y aparecerá un texto nuevo mencionando quién fue el amigo ganador. (Cabe aclarar que deben ser 2 o más personas en la lista para sortear)
 
 <h3> 🗿 Página de Demostración del juego </h3>
+
 [AMIGO SECRETO](https://numet99.github.io/challenge-amigo-secreto_esp-main)
 
 <h4> 🖥️ Tecnologíaas usadas </h4>
