@@ -6,7 +6,7 @@ Proporcionado por Alura LATAM.
 
 ![Badge-Estado](https://img.shields.io/badge/ESTADO-TERMINADO-green) ![Badge-Version](https://img.shields.io/badge/VERSION-1.1-yellow)
 
-  Mencionado anteriomente, el proyecto es proporcionado por Alura LATAM, donde aprendemos la lógica de programación con JavaScript. La programación en JavaScript es realizado por míb (Grupo 9).
+  Mencionado anteriomente, el proyecto es proporcionado por Alura LATAM, donde aprendemos la lógica de programación con JavaScript. La programación en JavaScript es realizado por mí (Grupo 9).
   Un programa que realiza el juego de sortear el nombre de una lista (indefinida) de personas. Idealmente para usarse como el conocido juego de regalos entre amigos.
 
 <h2> 🛠️ Caracteristicas y uso </h2>
