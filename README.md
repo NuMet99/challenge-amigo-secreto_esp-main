@@ -17,8 +17,8 @@ Proporcionado por Alura LATAM.
 - La funcionalidad de agregar con la tecla 'Enter' para hacer más cómodo el ingreso de varios nombres a la lista.
 - Sortear amigo, haciendo clic en el botón "Sortear" y aparecerá un texto nuevo mencionando quién fue el amigo ganador. (Cabe aclarar que deben ser 2 o más personas en la lista para sortear)
 
-<h3> 🗿 Página de Demostración </h3>
-
+<h3> 🗿 Página de Demostración del juego </h3>
+[AMIGO SECRETO](https://numet99.github.io/challenge-amigo-secreto_esp-main)
 
 <h4> 🖥️ Tecnologíaas usadas </h4>
 
