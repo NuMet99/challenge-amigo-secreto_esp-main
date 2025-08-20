@@ -2,7 +2,7 @@
 
 Proporcionado por Alura LATAM.
 
-![logo-alura.latam-facebook](https://github.com/user-attachments/assets/11a4ee24-72cc-42a2-ad06-5970fdccce8d) </h1>
+![logo-alura latam-facebook](https://github.com/user-attachments/assets/636430fc-8ca3-48c4-bcfd-4b98f2c7fe6b)</h1>
 
 ![Badge-Estado](https://img.shields.io/badge/ESTADO-TERMINADO-green) ![Badge-Version](https://img.shields.io/badge/VERSION-1.1-yellow)
 
